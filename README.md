@@ -10,9 +10,10 @@
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none;">
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🔧 Tech Stack
 
@@ -32,7 +33,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top">
 
 ## 🏆 Certifications
 
@@ -40,7 +41,7 @@
 
 **🔥 Expert**  
 <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer.png" width="120" alt="AZ-400"/>
+  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/image.png" width="120" alt="AZ-400"/>
 </a>
 
 **⚡ Associate**  
@@ -79,6 +80,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ## 🎯 Focus Areas
 
@@ -89,6 +91,3 @@
 Currently working on AI platform projects | Learning MLOps & AI infrastructure patterns | Writing about Azure & DevOps on [LinkedIn](https://www.linkedin.com/in/dmitrii-marlian/)
 
 ---
-
-<div align="center">
-</div>
