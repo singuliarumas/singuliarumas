@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Azure+Cloud+Specialist;MLOps+Enthusiast;Infrastructure+as+Code)](https://git.io/typing-svg)
+
 # Hi, I'm Dima! 👋
 **DevOps Engineer / Platfrom Engineer / Systems Engineer**
 
