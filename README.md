@@ -26,7 +26,7 @@ Azure Cloud Infrastructure • AI/MLOps Platforms • CI/CD Optimization • Mon
 
 **🔥 Expert**  
 <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer.png" width="60" alt="AZ-400"/>
+  <img src="[https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer.png]" width="60" alt="AZ-400"/>
 </a>
 
 **⚡ Associate**  
