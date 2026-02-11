@@ -12,24 +12,13 @@
 
 ## 🔧 Tech Stack
 
-**Cloud & Infrastructure**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes" />
-</p>
-
-**CI/CD & Automation**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,powershell,bash,python" />
-</p>
-
-**AI/ML & Monitoring**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,grafana" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,powershell,bash,python,grafana&perline=9" />
 </p>
 
 ## 🎯 Focus Areas
 
-☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
+Azure Cloud Infrastructure • AI/MLOps Platforms • CI/CD Optimization • Monitoring & Alerting • Infrastructure as Code
 
 ## 🏆 Certifications
 
@@ -37,7 +26,7 @@
 
 **🔥 Expert**  
 <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/image.png" width="60" alt="AZ-400"/>
+  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer.png" width="60" alt="AZ-400"/>
 </a>
 
 **⚡ Associate**  
