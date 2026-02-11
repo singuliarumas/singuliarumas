@@ -1,25 +1,53 @@
+<div align="center">
+  
 # Hi, I'm Dima! 👋
+**DevOps Engineer / Platfrom Engineer / Systems Engineer**
 
-**DevOps Engineer @ EPAM** | Azure ☁️ | Terraform | AI/MLOps | CI/CD
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](your-telegram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](your-url)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](your-url)
+</div>
 
-### 🔧 Tech Stack
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=github-actions)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+## 🔧 Tech Stack
 
-### 📊 Stats
+**Cloud & Infrastructure**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+**CI/CD & Automation**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 🎯 Currently
-- 🔨 Building AI platforms with Azure
-- 📚 Learning MLOps practices
-- ✍️ Writing about DevOps & Cloud on LinkedIn
+**AI/ML & Monitoring**  
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&card_width=400)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+
+</div>
+
+## 🎯 Focus Areas
+
+☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
+
+## 💬 Let's Connect
+
+Currently working on AI platform projects | Learning MLOps & AI infrastructure patterns | Writing about Azure & DevOps on [LinkedIn](your-linkedin)
+
+---
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+
+</div>
