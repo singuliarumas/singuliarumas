@@ -10,30 +10,26 @@
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🔧 Tech Stack
 
 **Cloud & Infrastructure**  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes" />
 </p>
 
 **CI/CD & Automation**  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=githubactions,powershell,bash,python" />
 </p>
 
 **AI/ML & Monitoring**  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=azure,grafana" />
 </p>
 
-</td>
-<td width="50%" valign="top">
+## 🎯 Focus Areas
+
+☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
 
 ## 🏆 Certifications
 
@@ -41,53 +37,40 @@
 
 **🔥 Expert**  
 <a href="https://learn.microsoft.com/en-us/certifications/devops-engineer/">
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/image.png" width="120" alt="AZ-400"/>
+  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/image.png" width="60" alt="AZ-400"/>
 </a>
 
 **⚡ Associate**  
 <p>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-administrator/">
-    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="110" alt="AZ-104"/>
+    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="55" alt="AZ-104"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-security-engineer/">
-    <img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="110" alt="AZ-500"/>
+    <img src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="55" alt="AZ-500"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-network-engineer-associate/">
-    <img src="https://images.credly.com/size/340x340/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" width="110" alt="AZ-700"/>
+    <img src="https://images.credly.com/size/340x340/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png" width="55" alt="AZ-700"/>
   </a>
 </p>
 
 **✨ Fundamentals**  
 <p>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="AZ-900"/>
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="50" alt="AZ-900"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/">
-    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100" alt="AI-900"/>
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="50" alt="AI-900"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/">
-    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="100" alt="DP-900"/>
+    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="50" alt="DP-900"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/">
-    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="100" alt="SC-900"/>
+    <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" alt="SC-900"/>
   </a>
 </p>
 
-![Total](https://img.shields.io/badge/Total-9_Certifications-00D9FF?style=for-the-badge&logo=microsoft&logoColor=white)
-
 </div>
-
-</td>
-</tr>
-</table>
-</div>
-
-## 🎯 Focus Areas
-
-☁️ Azure Cloud Infrastructure • 🤖 AI/MLOps Platforms • 🔄 CI/CD Optimization • 📊 Monitoring & Alerting • 🛠️ Infrastructure as Code
 
 ## 💬 Let's Connect
 
 Currently working on AI platform projects | Learning MLOps & AI infrastructure patterns | Writing about Azure & DevOps on [LinkedIn](https://www.linkedin.com/in/dmitrii-marlian/)
-
----
