@@ -26,25 +26,52 @@
   <img src="https://skillicons.dev/icons?i=azure,grafana" />
 </p>
 
-## 🎓 Certifications
+## 🎓 Microsoft Certifications
 
-<div align="center">
-
-### 🔷 Associate & Expert Level
-[![DevOps Expert](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/devops-engineer/)
-[![Security Associate](https://img.shields.io/badge/AZ--500-Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-security-engineer/)
-[![Network Associate](https://img.shields.io/badge/AZ--700-Network_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-network-engineer-associate/)
-
-### 🔹 Fundamentals
-[![Azure Fund](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-fundamentals/)
-[![AI Fund](https://img.shields.io/badge/AI--900-AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-ai-fundamentals/)
-[![Data Fund](https://img.shields.io/badge/DP--900-Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/certifications/azure-data-fundamentals/)
-
-### 🔸 Security & Compliance
-[![SC-900](https://img.shields.io/badge/SC--900-Security_Compliance_Identity-107C10?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/security-compliance-and-identity-fundamentals/)
-[![MTA](https://img.shields.io/badge/MTA-Windows_Server_Admin-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/certifications/mta-windows-server-administration-fundamentals/)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AZ--400-Expert-FF6B6B?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>DevOps Engineer</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AZ--500-Associate-4ECDC4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>Security Engineer</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AZ--700-Associate-45B7D1?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>Network Engineer</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AZ--900-Fundamentals-96CEB4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI--900-Fundamentals-FFEAA7?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>AI</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DP--900-Fundamentals-DFE6E9?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <sub><b>Data</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SC--900-Fundamentals-74B9FF?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
+      <sub><b>Security & Identity</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MTA-Legacy-A29BFE?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
+      <sub><b>Windows Server</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/8-Total-00B894?style=for-the-badge&logo=microsoft&logoColor=white" /><br>
+      <sub><b>Certifications</b></sub>
+    </td>
+  </tr>
+</table>>
 
 ## 🎯 Focus Areas
 
